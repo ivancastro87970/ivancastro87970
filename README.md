@@ -10,7 +10,7 @@ __________________________________________________________________________
 - [Programação de Computadores - C](https://github.com/ivancastro87970/invaders.c)
 
 __________________________________________________________________________
-### Segundo ano 🌱
+### Segundo ano 🔭
 
 - [Arquitetura de computadores II - C++](https://github.com/ivancastro87970/UMinho-atc2)
 - [ATCII desafios - C++](https://github.com/ivancastro87970/Uminho-Desafios_atc2)
@@ -20,7 +20,7 @@ __________________________________________________________________________
 - Teoria de sistemas
 
 __________________________________________________________________________
-### Terceiro ano
+### Terceiro ano 📫
 (💬.. a chegar)
 <!--
 **ivancastro87970/ivancastro87970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
