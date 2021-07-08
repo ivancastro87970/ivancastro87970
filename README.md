@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ivanrcastro6@gmail.com)
-[![Instagram badge](https://img.shields.io/badge/-@ramoss05-critical?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivanrcastro/)
+[![Instagram badge](https://img.shields.io/badge/-@ivanrcastro-critical?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivanrcastro/)
 
 ### ⚡ Repositórios De Engenharia Eletrónica da Universidade do Minho ⚡
 __________________________________________________________________________
