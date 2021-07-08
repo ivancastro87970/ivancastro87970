@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-### 📫 Contacto
+### 📫 How to reach me:
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ivanrcastro6@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/-@ivanrcastro-critical?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivanrcastro/)
 
@@ -8,16 +8,17 @@
 __________________________________________________________________________
 __________________________________________________________________________
 
-### Primeiro ano 🤔
+### Primeiro ano
 
 - [Programação de Computadores - C](https://github.com/ivancastro87970/invaders.c)
 
 __________________________________________________________________________
-### Segundo ano 🔭
+### Segundo ano
 
 - [Arquitetura de computadores II - C++](https://github.com/ivancastro87970/UMinho-atc2)
 - [ATCII desafios - C++](https://github.com/ivancastro87970/Uminho-Desafios_atc2)
 - [Microprocessadores (8051) - C](https://github.com/ivancastro87970/UMinho-MicroProcessadores-8051)
+- Arquitetura de computadores I - C
 - Eletrónica II
 - Eletrotecnia e Instalações Eletricas
 - Teoria de sistemas
