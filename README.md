@@ -19,6 +19,7 @@ __________________________________________________________________________
 - [ATCII desafios - C++](https://github.com/ivancastro87970/Uminho-Desafios_atc2)
 - [Microprocessadores (8051) - C](https://github.com/ivancastro87970/UMinho-MicroProcessadores-8051)
 - Arquitetura de computadores I - C
+- Microcontroladores - Assembly
 - Eletrónica II
 - Eletrotecnia e Instalações Eletricas
 - Teoria de sistemas
