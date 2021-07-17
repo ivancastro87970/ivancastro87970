@@ -1,10 +1,13 @@
-### Hello World! 👋
+### Hello World, I'm Ivan! 👋
 
 ### 📫 How to reach me:
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ivanrcastro6@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/-@ivanrcastro-critical?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivanrcastro/)
 
-### ⚡ Repositórios De Engenharia Eletrónica da Universidade do Minho ⚡
+__________________________________________________________________________
+__________________________________________________________________________
+
+### ⚡ Repositórios De Engenharia Eletrónica da Universidade do Minho ⚡ |
 __________________________________________________________________________
 __________________________________________________________________________
 
@@ -33,6 +36,13 @@ __________________________________________________________________________
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivancastro87970&show_icons=true&theme=radical)
 
 ## 💻 Línguas de Programação
+<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="Assembly" width="26px" src="https://cdn.fileinfo.com/img/icons/files/128/asm-5072.png" />
+<img align="left" alt="Haskell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" />
+<img align="left" alt="R" width="26px" src="https://pt.wikipedia.org/wiki/R_(linguagem_de_programa%C3%A7%C3%A3o)#/media/Ficheiro:R_logo.svg" /> (beginner)
+</br>
+<!--
 * C
 * C++
 * Haskell (beginner)
