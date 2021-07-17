@@ -1,6 +1,6 @@
 ### Hello World, I'm Ivan! 👋
 
-### 📫 How to reach me:
+### 📫 Contactos:
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ivanrcastro6@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/-@ivanrcastro-critical?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivanrcastro/)
 
