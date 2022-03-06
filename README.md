@@ -9,7 +9,7 @@ __________________________________________________________________________
 
 ## 💻 Linguagens de Programação
 __________________________________________________________________________
-__________________________________________________________________________
+
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="Assembly" width="26px" src="https://cdn.fileinfo.com/img/icons/files/128/asm-5072.png" />
@@ -20,11 +20,10 @@ __________________________________________________________________________
 </br>
 </br>
 __________________________________________________________________________
-__________________________________________________________________________
 
 ## 🔭 Ferramentas mais usadas
 __________________________________________________________________________
-__________________________________________________________________________
+
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
 <img align="left" alt="MatLab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="Keil uVision5" width="26px" down="3px" src="https://upload.wikimedia.org/wikipedia/en/8/8d/Keil_logo.svg" />
