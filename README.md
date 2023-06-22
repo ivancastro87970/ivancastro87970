@@ -14,6 +14,7 @@ __________________________________________________________________________
 <img align="left" alt="Assembly" width="26px" src="https://cdn.fileinfo.com/img/icons/files/128/asm-5072.png" />
 <img align="left" alt="Haskell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" />
 <img align="left" alt="R" width="26px" src="https://pt.wikipedia.org/wiki/R_(linguagem_de_programa%C3%A7%C3%A3o)#/media/Ficheiro:R_logo.svg" /> 
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </br>
 </br>
 </br>
