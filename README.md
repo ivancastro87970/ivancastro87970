@@ -2,7 +2,6 @@
 
 ### 📫 Contactos:
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ivanrcastro6@gmail.com)
-[![Instagram badge](https://img.shields.io/badge/-@ivanrcastro-critical?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ivanrcastro/)
 
 __________________________________________________________________________
 __________________________________________________________________________
@@ -32,38 +31,6 @@ __________________________________________________________________________
 </br>
 
 
-__________________________________________________________________________
-__________________________________________________________________________
-
-### ⚡ Repositórios De Engenharia Eletrónica da Universidade do Minho ⚡ 
-__________________________________________________________________________
-__________________________________________________________________________
-
-### Primeiro ano
-
-- [Programação de Computadores - C](https://github.com/ivancastro87970/invaders.c)
-
-__________________________________________________________________________
-### Segundo ano
-
-- [Arquitetura de computadores II - C++](https://github.com/ivancastro87970/UMinho-atc2)
-- [ATCII desafios - C++](https://github.com/ivancastro87970/Uminho-Desafios_atc2)
-- [Microprocessadores (8051) - C](https://github.com/ivancastro87970/UMinho-MicroProcessadores-8051)
-- Arquitetura de computadores I - C
-- Microcontroladores - Assembly
-- Eletrónica II
-- Eletrotecnia e Instalações Eletricas
-- Teoria de sistemas
- 
-__________________________________________________________________________
-### Terceiro ano 
-
-- Arquitetura de Computadores I - C STM32
-- PIEEIC II 
-
-__________________________________________________________________________
-![Ivans's Stats](https://github-readme-stats.vercel.app/api?username=ivancastro87970&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivancastro87970&show_icons=true&theme=radical)
 
 
 <!--
